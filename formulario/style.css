@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/fondonuevox2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    width: 400px;
+    background: white;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    color: black;
+    border-radius: 2%;
+    opacity: 80%;
+}
+.form h2{
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+.form_input{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(139, 139, 60);
+}
+.form_submit{
+    width: 100%;
+    background: rgb(139, 139, 60);
+    border: none;
+    padding: 12px;
+    margin: 16px 0;
+    font-size: 16px;
+}
+.form_inputt{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid white;
+    border: none;
+}
